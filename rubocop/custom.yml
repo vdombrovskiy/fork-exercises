@@ -1,0 +1,33 @@
+Bundler/OrderedGems:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 100
+
+Metrics/MethodLength:
+  Max: 20
+
+Metrics/AbcSize:
+  Max: 30
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/RedundantSelf:
+  Enabled: false
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+  IndentationWidth: 2
+
+Style/AndOr:
+  EnforcedStyle: conditionals
+
+Rails/SkipsModelValidations:
+  Enabled: false
+
+Style/RaiseArgs:
+  Enabled: false
